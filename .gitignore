@@ -1,0 +1,14 @@
+# SwiftPM 构建产物
+.build/
+
+# 打包生成的 App Bundle（由 build.sh 生成）
+*.app/
+
+# macOS 系统文件
+.DS_Store
+*.swp
+*~
+
+# Xcode 用户设置
+xcuserdata/
+*.xcuserstate
